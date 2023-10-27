@@ -4,7 +4,7 @@ This is a custom component for Home Assistant to integrate your Niu Scooter.
 
 ## Install
 
-You can install this custom component by adding this repository ([https://github.com/marcelwestrahome/home-assistant-niu-component](https://github.com/marcelwestrahome/home-assistant-niu-component)) to [HACS](https://hacs.xyz/) in the settings menu of HACS first. You will find the custom component in the integration menu afterwards, look for 'Niu Scooter Integration'. Alternatively, you can install it manually by copying the `custom_components` folder to your Home Assistant configuration folder.
+You can install this custom component by adding this repository ([https://github.com/marcelwestrahome/home-assistant-niu-V1](https://github.com/marcelwestrahome/home-assistant-niu-V1)) to [HACS](https://hacs.xyz/) in the settings menu of HACS first. You will find the custom component in the integration menu afterwards, look for 'Niu Scooter Integration'. Alternatively, you can install it manually by copying the `custom_components` folder to your Home Assistant configuration folder.
 
 ## Setup
 
