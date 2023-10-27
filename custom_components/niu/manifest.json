@@ -3,8 +3,8 @@
   "name": "Nui Scooters",
   "version": "1.0.2",
   "iot_class": "cloud_polling",
-  "documentation": "https://github.com/marcelwestrahome/home-assistant-niu-component",
-  "issue_tracker": "https://github.com/marcelwestrahome/home-assistant-niu-component/issues",
+  "documentation": "https://github.com/marcelwestrahome/home-assistant-niu-V1",
+  "issue_tracker": "https://github.com/marcelwestrahome/home-assistant-niu-V1/issues",
   "requirements": [],
   "dependencies": [],
   "codeowners": [
