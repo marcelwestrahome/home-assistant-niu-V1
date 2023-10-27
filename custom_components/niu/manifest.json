@@ -4,7 +4,7 @@
   "after_dependencies": ["generic"],
   "codeowners": [
     "@mwestra"
-  ]
+  ],
   "config_flow": true,
   "dependencies": [],
   "documentation": "https://github.com/marcelwestrahome/home-assistant-niu-V1",
