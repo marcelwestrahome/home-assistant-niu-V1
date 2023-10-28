@@ -361,7 +361,7 @@ def post_info_track(path, sn, token):
     return data
 
 
-def setup_platform(hass, config, add_devices, discovery_info=None):
+async def async_setup_entry(hass, entry, async_add_entities):
 
     # get config variables
     username = config.get(CONF_USERNAME)
@@ -402,7 +402,8 @@ def setup_platform(hass, config, add_devices, discovery_info=None):
                 sensor_config[5],
             )
         )
-    add_devices(devices)
+    async_add_devices(devices)
+    return True
 
 
 class NiuDataBridge(object):
